@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/about-5.jpg
+    image: images/bold/feature-1.svg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
