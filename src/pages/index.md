@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: This isn't a game
     subtitle: You need the best to succeed
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Let us help you to set up the best website out there to thrive & prosper
+      among millions other stores
     actions:
       - label: Try Free
         url: /pricing
