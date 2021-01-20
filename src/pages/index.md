@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/drone11-main-cover.jpg
+    image: images/bold/post-5.png
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
