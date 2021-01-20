@@ -36,7 +36,7 @@ sections:
       - image: images/about-1.jpg
         image_alt: Gatsby logo
         image_align: center
-      - image: images/about-1.jpg
+      - image: images/about-4.jpg
         image_alt: Sanity logo
         image_align: center
       - image: images/about-5.jpg
