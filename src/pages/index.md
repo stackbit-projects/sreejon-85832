@@ -8,7 +8,7 @@ sections:
       Let us help you to set up the best website out there to thrive & prosper
       among millions other stores
     actions:
-      - label: Start Right Now
+      - label: Start Now
         url: /pricing
         style: primary
       - label: Learn More
