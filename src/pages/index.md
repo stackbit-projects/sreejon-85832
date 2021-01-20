@@ -21,7 +21,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: images/bold/post-5.png
+    image: images/about-5.jpg
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
